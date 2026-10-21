@@ -1,0 +1,12 @@
+package com.housing.stay;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HousingStayApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(HousingStayApplication.class, args);
+	}
+}
